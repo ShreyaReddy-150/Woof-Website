@@ -22,12 +22,14 @@ This landing page is designed to be clean, modern, and engaging — giving users
 Here's a sneak peek of what the landing page looks like: </br> </br>
 ![WoofWebsite_SneakPeak_2 mp4](https://github.com/user-attachments/assets/31280e0d-7f2b-41fb-81c5-3202f874315f)
 
+<!--
 ---
 
 ## 🚀 Live Demo
 
 
 ---
+-->
 
 ## 🛠️ Tech Stack
 
