@@ -2,7 +2,7 @@
 
 Welcome to the **Landing Page** for **Woof**, the only pet app you need for all your pet's needs! 🎉
 
-This landing page is designed to be clean, modern, and engaging — giving users a quick overview of what Woof is all about, and encouraging them to explore or download the app.
+This landing page is designed to be clean, modern, and engaging - giving users a quick overview of what Woof is all about, and encouraging them to explore or download the app.
 
 ---
 
